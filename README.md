@@ -1,4 +1,4 @@
-# Carolina Bailon
+# Carolina Bailon Trujillo
 ### Junior Data Analyst | Business AI Builder
 
 Soy estudiante de Ciencia de Datos en Organizaciones en la UNLP, una formación conjunta entre la Facultad de Informática y la Facultad de Ciencias Económicas. Esta estructura me permite combinar habilidades de gestión e informática a gran escala, orientando mis conocimientos a la resolución de problemas en proyectos reales. Mi enfoque está en unir el rigor analítico de los datos con la implementación técnica de Inteligencia Artificial para optimizar procesos de negocio, automatizar flujos operativos y generar impacto real.
