@@ -33,9 +33,9 @@ Mi enfoque combina el rigor analítico del procesamiento de datos con la impleme
 * **Solución & Tech:** Formulé la arquitectura de un motor de recomendación gamificado con el asistente virtual **Moli**, cruzando datos biométricos con matrices nutricionales corporativas.
 * **Impacto:** Producto validado mediante *StartSe AI Canvas*, diseñado para incrementar la retención semanal (WAU) e impulsar ventas cruzadas del catálogo.
 
-#### 📊 3. Predicción de Insatisfacción en E-commerce (Dataset Olist)
+#### 📊 3. Predicción de Insatisfacción en E-commerce (Dataset Olist) 🚧 [En Desarrollo]
 * **Problema:** Necesidad de detectar preventivamente a clientes en riesgo de insatisfacción antes del abandono de la plataforma.
-* **Solución & Tech:** Lideré el pivot analítico hacia un modelo de clasificación binaria (Regresión Logística, Random Forest, XGBoost) en Python, priorizando la métrica de *Recall*.
+* **Solución & Tech:** Liderando el pivot analítico hacia un modelo de clasificación binaria (Regresión Logística, Random Forest, XGBoost) en Python, priorizando la métrica de *Recall*.
 * **Impacto:** Minimización de falsos negativos para habilitar estrategias preventivas de retención de clientes.
 
 ---
