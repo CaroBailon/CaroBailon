@@ -1,6 +1,6 @@
 # Hola, soy Carolina Bailon Trujillo 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carolina-bailon-trujillo-18334a36b/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carolinabailontrujillo/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bailontrujillocarolina@gmail.com)
 
 ## Data Analyst / Data Scientist Junior
@@ -28,10 +28,10 @@ Estudiante avanzada de **Ciencia de Datos en Organizaciones (UNLP)** · **Buscan
 <p>El subte perdió <b>el 45% de sus pasajeros</b> en dos años tras el aumento de tarifa de 2024. Modelé 3,2 millones de registros en un esquema estrella, respondí 7 preguntas de negocio en SQL y armé un dashboard en Power BI.</p>
 </td>
 <td width="50%" valign="top">
-<a href="https://github.com/CaroBailon/vaca-muerta-predictive-analytics"><img src="img/vaca_muerta.png" alt="Vaca Muerta: importancia de variables" width="100%"></a>
+<a href="https://github.com/CaroBailon/vaca-muerta-predictive-analytics"><img src="img/vaca_muerta.png" alt="Vaca Muerta: producción estimada según la longitud de rama" width="100%"></a>
 <h3><a href="https://github.com/CaroBailon/vaca-muerta-predictive-analytics">🛢️ Vaca Muerta: producción de pozos</a></h3>
-<code>Python</code> <code>Scikit-Learn</code> <code>Plotly</code>
-<p>La longitud de rama es la principal palanca de producción: <b>+7.400 m³ por cada 900 m</b>. Estimé la producción a 12 meses y mostré que una partición aleatoria duplica el R² aparente (0,52 contra 0,26).</p>
+<code>Python</code> <code>Scikit-Learn</code> <code>FastAPI</code> <code>Docker</code>
+<p>Modelo de producción a 12 meses <b>desplegado como API</b>, con <a href="https://vaca-muerta-carolina.onrender.com/demo">demo en vivo</a>. La validación temporal muestra el rendimiento real: una partición aleatoria <b>duplica el R²</b> aparente (0,52 contra 0,26).</p>
 </td>
 </tr>
 </table>
