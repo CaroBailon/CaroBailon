@@ -11,11 +11,11 @@ Estudiante avanzada de **Ciencia de Datos en Organizaciones (UNLP)** · **Buscan
 
 - **SQL y modelado de datos:** consultas con CTEs y funciones de ventana, modelos en estrella en PostgreSQL.
 - **Dashboards para decidir:** Power BI con DAX y Excel (fórmulas, tablas dinámicas), con conclusiones claras y no solo gráficos.
-- **Modelos predictivos bien validados:** Python, Scikit-Learn y XGBoost, evaluados como se usan en la realidad y sin métricas infladas.
+- **Modelos predictivos bien validados:** Python, Scikit-Learn y XGBoost, evaluados como se usan en la realidad, sin métricas infladas, y [desplegados como API](https://vaca-muerta-carolina.onrender.com/demo) con FastAPI y Docker.
 - **IA aplicada a procesos:** agentes con RAG sobre la API de Gemini y automatizaciones en Make.
 - **Visión de negocio:** 5 años en operaciones (caja, inventarios y proveedores) antes de dedicarme a los datos.
 
-`SQL` `PostgreSQL` `Python` `Pandas` `Power BI` `DAX` `Excel` `Scikit-Learn` `XGBoost` `Statsmodels` `PyTorch` `Plotly` `Streamlit` `Make` `RAG` `Gemini API` `Git`
+`SQL` `PostgreSQL` `Python` `Pandas` `Power BI` `DAX` `Excel` `Scikit-Learn` `XGBoost` `Statsmodels` `PyTorch` `Plotly` `FastAPI` `Docker` `Make` `RAG` `Gemini API` `Git`
 
 ## Proyectos
 
@@ -48,7 +48,7 @@ Estudiante avanzada de **Ciencia de Datos en Organizaciones (UNLP)** · **Buscan
 <a href="https://github.com/CaroBailon/portfolio-agentes-ia"><img src="img/agentes_ia.png" alt="ARI Flow: triage de soporte con IA" width="100%"></a>
 <h3><a href="https://github.com/CaroBailon/portfolio-agentes-ia">🤖 Agentes de IA para negocios</a></h3>
 <code>RAG</code> <code>Gemini API</code> <code>Make</code>
-<p><b>Tres agentes</b> que reemplazan tareas manuales: responden consultas de soporte con una base de conocimiento y derivan el resto a una persona, arman propuestas comerciales validando presupuesto y plazos, y generan un panel de noticias del mercado.</p>
+<p><b>Tres agentes</b> para tareas repetitivas: responder consultas de soporte con una base de conocimiento y derivar el resto a una persona, armar propuestas comerciales validando presupuesto y plazos, y generar un panel de noticias. Incluye un <b>set de 30 casos</b> para evaluar el enrutamiento.</p>
 </td>
 </tr>
 </table>
