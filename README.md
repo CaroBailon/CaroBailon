@@ -10,12 +10,12 @@ Estudiante avanzada de **Ciencia de Datos en Organizaciones (UNLP)** · **Buscan
 **Qué puedo aportar:**
 
 - **SQL y modelado de datos:** consultas con CTEs y funciones de ventana, modelos en estrella en PostgreSQL.
-- **Dashboards para decidir:** Power BI con DAX, con conclusiones claras y no solo gráficos.
+- **Dashboards para decidir:** Power BI con DAX y Excel (fórmulas, tablas dinámicas), con conclusiones claras y no solo gráficos.
 - **Modelos predictivos bien validados:** Python, Scikit-Learn y XGBoost, evaluados como se usan en la realidad y sin métricas infladas.
 - **IA aplicada a procesos:** agentes con RAG sobre la API de Gemini y automatizaciones en Make.
 - **Visión de negocio:** 5 años en operaciones (caja, inventarios y proveedores) antes de dedicarme a los datos.
 
-`SQL` `PostgreSQL` `Python` `Pandas` `Power BI` `DAX` `Scikit-Learn` `XGBoost` `Statsmodels` `PyTorch` `Plotly` `Streamlit` `Make` `RAG` `Gemini API` `Git`
+`SQL` `PostgreSQL` `Python` `Pandas` `Power BI` `DAX` `Excel` `Scikit-Learn` `XGBoost` `Statsmodels` `PyTorch` `Plotly` `Streamlit` `Make` `RAG` `Gemini API` `Git`
 
 ## Proyectos
 
@@ -24,8 +24,8 @@ Estudiante avanzada de **Ciencia de Datos en Organizaciones (UNLP)** · **Buscan
 <td width="50%" valign="top">
 <a href="https://github.com/CaroBailon/sube-amba"><img src="img/sube.png" alt="Dashboard SUBE" width="100%"></a>
 <h3><a href="https://github.com/CaroBailon/sube-amba">🚇 Movilidad en el AMBA con SUBE</a></h3>
-<code>PostgreSQL</code> <code>SQL</code> <code>Power BI</code>
-<p>El subte perdió <b>el 45% de sus pasajeros</b> en dos años tras el aumento de tarifa de 2024. Modelé 3,2 millones de registros en un esquema estrella, respondí 7 preguntas de negocio en SQL y armé un dashboard en Power BI.</p>
+<code>PostgreSQL</code> <code>SQL</code> <code>Power BI</code> <code>Excel</code>
+<p>El subte perdió <b>el 45% de sus pasajeros</b> en dos años tras el aumento de tarifa de 2024. Modelé 3,2 millones de registros en un esquema estrella, respondí 7 preguntas de negocio en SQL, armé un dashboard en Power BI y una versión en Excel, y cerré con recomendaciones concretas.</p>
 </td>
 <td width="50%" valign="top">
 <a href="https://github.com/CaroBailon/vaca-muerta-predictive-analytics"><img src="img/vaca_muerta.png" alt="Vaca Muerta: producción estimada según la longitud de rama" width="100%"></a>
