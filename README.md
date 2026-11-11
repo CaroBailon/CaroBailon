@@ -25,7 +25,8 @@ Estudiante avanzada de **Ciencia de Datos en Organizaciones (UNLP)** · **Buscan
 <a href="https://github.com/CaroBailon/sube-amba"><img src="img/sube.png" alt="Dashboard SUBE" width="100%"></a>
 <h3><a href="https://github.com/CaroBailon/sube-amba">🚇 Movilidad en el AMBA con SUBE</a></h3>
 <code>PostgreSQL</code> <code>SQL</code> <code>PySpark</code> <code>Databricks</code> <code>Power BI</code> <code>Excel</code>
-<p>El subte perdió <b>el 45% de sus pasajeros</b> en dos años tras el aumento de tarifa de 2024. Modelé 3,2 millones de registros en un esquema estrella, respondí 7 preguntas de negocio en SQL, armé un dashboard en Power BI y una versión en Excel, y cerré con recomendaciones concretas. Repliqué el pipeline en PySpark sobre Databricks y validé que da los mismos resultados.</p>
+<p>El subte perdió <b>casi la mitad de sus pasajeros</b> en tres años tras el aumento de tarifa de 2024. Modelé 3,2 millones de registros en un esquema estrella, respondí 8 preguntas de negocio en SQL, armé un dashboard en Power BI y una versión en Excel, y cerré con recomendaciones concretas. Repliqué el pipeline en PySpark sobre Databricks y validé que da los mismos resultados.</p>
+<p>🔎 <a href="https://carobailon.github.io/sube-amba/"><b>Explorá los datos en la página interactiva</b></a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://github.com/CaroBailon/vaca-muerta-predictive-analytics"><img src="img/vaca_muerta.png" alt="Vaca Muerta: producción estimada según la longitud de rama" width="100%"></a>
