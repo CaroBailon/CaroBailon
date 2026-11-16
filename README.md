@@ -22,17 +22,18 @@ Estudiante avanzada de **Ciencia de Datos en Organizaciones (UNLP)** · **Buscan
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://github.com/CaroBailon/sube-amba"><img src="img/sube.png" alt="Dashboard SUBE" width="100%"></a>
-<h3><a href="https://github.com/CaroBailon/sube-amba">🚇 Movilidad en el AMBA con SUBE</a></h3>
+<a href="https://carobailon.github.io/sube-amba/"><img src="img/sube.png" alt="Dashboard SUBE" width="100%"></a>
+<h3><a href="https://carobailon.github.io/sube-amba/">🚇 Movilidad en el AMBA con SUBE</a></h3>
 <code>PostgreSQL</code> <code>SQL</code> <code>PySpark</code> <code>Databricks</code> <code>Power BI</code> <code>Excel</code>
 <p>El subte perdió <b>casi la mitad de sus pasajeros</b> en tres años tras el aumento de tarifa de 2024. Modelé 3,2 millones de registros en un esquema estrella, respondí 8 preguntas de negocio en SQL, armé un dashboard en Power BI y una versión en Excel, y cerré con recomendaciones concretas. Repliqué el pipeline en PySpark sobre Databricks y validé que da los mismos resultados.</p>
-<p>🔎 <a href="https://carobailon.github.io/sube-amba/"><b>Explorá los datos en la página interactiva</b></a></p>
+<p>🔎 <a href="https://carobailon.github.io/sube-amba/"><b>Ver la página interactiva</b></a> · 💻 <a href="https://github.com/CaroBailon/sube-amba">Ver el código</a></p>
 </td>
 <td width="50%" valign="top">
-<a href="https://github.com/CaroBailon/vaca-muerta-predictive-analytics"><img src="img/vaca_muerta.png" alt="Vaca Muerta: producción estimada según la longitud de rama" width="100%"></a>
-<h3><a href="https://github.com/CaroBailon/vaca-muerta-predictive-analytics">🛢️ Vaca Muerta: producción de pozos</a></h3>
+<a href="https://vaca-muerta-carolina.onrender.com/demo"><img src="img/vaca_muerta.png" alt="Vaca Muerta: producción estimada según la longitud de rama" width="100%"></a>
+<h3><a href="https://vaca-muerta-carolina.onrender.com/demo">🛢️ Vaca Muerta: producción de pozos</a></h3>
 <code>Python</code> <code>Scikit-Learn</code> <code>FastAPI</code> <code>Docker</code>
 <p>Modelo de producción a 12 meses <b>desplegado como API</b>, con <a href="https://vaca-muerta-carolina.onrender.com/demo">demo en vivo</a>. La validación temporal muestra el rendimiento real: una partición aleatoria <b>duplica el R²</b> aparente (0,52 contra 0,26).</p>
+<p>🔎 <a href="https://vaca-muerta-carolina.onrender.com/demo"><b>Ver la demo en vivo</b></a> · 💻 <a href="https://github.com/CaroBailon/vaca-muerta-predictive-analytics">Ver el código</a></p>
 </td>
 </tr>
 </table>
